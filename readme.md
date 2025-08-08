@@ -6,3 +6,7 @@ Key Updates:
 4. Add .gitignore
 
 If there is any other task means please contact me through gmogesh2003@gmail.com.
+
+postman Collection: https://www.postman.com/queue-management/workspace/alaatreeventures/collection/37767916-5d7894f4-ac1b-47ad-a709-5a66c6b08e02?action=share&source=copy-link&creator=37767916
+
+API_BASENAME = https://alatreeventures-6fl5.onrender.com
